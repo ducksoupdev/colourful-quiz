@@ -1,0 +1,18 @@
+{
+  "extends": [
+    "standard"
+  ],
+  "parserOptions": {
+    "parser": "babel-eslint",
+    "ecmaVersion": 9
+  },
+  "rules": {
+    "quotes": [
+      "error",
+      "single"
+    ],
+    "require-jsdoc": "off",
+    "no-new": "off",
+    "no-prototype-builtins": "off"
+  }
+}

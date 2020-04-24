@@ -1,0 +1,163 @@
+{
+  "results" : [
+    {
+      "questionNumber": 1,
+      "correctAnswer": [
+        "blue",
+        "green",
+        "orange"
+      ],
+      "text": "Main colours of the icons for Microsoft's Word, Excel and Powerpoint programmes"
+    },
+    {
+      "questionNumber": 2,
+      "correctAnswer": [
+        "white"
+      ],
+      "text": "The Sun (as seen from space)"
+    },
+    {
+      "questionNumber": 3,
+      "correctAnswer": [
+        "red"
+      ],
+      "text": "Most common colour featured in national flags"
+    },
+    {
+      "questionNumber": 4,
+      "correctAnswer": [
+        "green"
+      ],
+      "text": "Everything turns which colour when wearing night-vision goggles?"
+    },
+    {
+      "questionNumber": 5,
+      "correctAnswer": [
+        "white",
+        "blue"
+      ],
+      "text": "Two branches of the Nile"
+    },
+    {
+      "questionNumber": 6,
+      "correctAnswer": [
+        "blue",
+        "yellow",
+        "black",
+        "red",
+        "green"
+      ],
+      "text": "Olympic rings"
+    },
+    {
+      "questionNumber": 7,
+      "correctAnswer": [
+        "green",
+        "white",
+        "blue",
+        "yellow"
+      ],
+      "text": "Brazilian flag"
+    },
+    {
+      "questionNumber": 8,
+      "correctAnswer": [
+        "red",
+        "green",
+        "blue"
+      ],
+      "text": "Three primary colours for television screens and computer monitors"
+    },
+    {
+      "questionNumber": 9,
+      "correctAnswer": [
+        "red"
+      ],
+      "text": "Deoxygenated blood"
+    },
+    {
+      "questionNumber": 10,
+      "correctAnswer": [
+        "red"
+      ],
+      "text": "Tallest trees in the world"
+    },
+    {
+      "questionNumber": 11,
+      "correctAnswer": [
+        "red"
+      ],
+      "text": "Rarest colour of diamond"
+    },
+    {
+      "questionNumber": 12,
+      "correctAnswer": [
+        "black",
+        "yellow",
+        "white"
+      ],
+      "text": "London, New York and Rome taxis"
+    },
+    {
+      "questionNumber": 13,
+      "correctAnswer": [
+        "purple"
+      ],
+      "text": "Amethyst crystal"
+    },
+    {
+      "questionNumber": 14,
+      "correctAnswer": [
+        "red",
+        "blue",
+        "yellow",
+        "green"
+      ],
+      "text": "Google logo"
+    },
+    {
+      "questionNumber": 15,
+      "correctAnswer": [
+        "gray"
+      ],
+      "text": "Uncooked shrimp"
+    },
+    {
+      "questionNumber": 16,
+      "correctAnswer": [
+        "red",
+        "blue"
+      ],
+      "text": "Two colours that make purple"
+    },
+    {
+      "questionNumber": 17,
+      "correctAnswer": [
+        "red",
+        "white"
+      ],
+      "text": "YouTube app icon"
+    },
+    {
+      "questionNumber": 18,
+      "correctAnswer": [
+        "purple"
+      ],
+      "text": "Only Roman Emperors were allows to wear which colour?"
+    },
+    {
+      "questionNumber": 19,
+      "correctAnswer": [
+        "black"
+      ],
+      "text": "World's first adhesive postage stamp"
+    },
+    {
+      "questionNumber": 20,
+      "correctAnswer": [
+        "black"
+      ],
+      "text": "Most common hair colour in the world"
+    }
+  ]
+}
