@@ -8,8 +8,8 @@ self.onmessage = function (e) {
 
   var headers = {
     'Content-Type': 'application/json',
-    'X-Parse-Application-Id': 'kosS75aViq2uhoHYHBnpUVyjFfkCovbI6N4HDFc8',
-    'X-Parse-REST-API-Key': '5JrJpf9fRNlrYYNh5PUf3EzWJRvVX31s9Ulkr8l3'
+    'X-Parse-Application-Id': '',
+    'X-Parse-REST-API-Key': ''
   }
 
   setInterval(function () {
